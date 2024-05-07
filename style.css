@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+body h1 {
+    font-size: 50px;
+    font-family: boska, Arial, Helvetica, sans-serif;
+}
+
+@font-face {
+    font-family: boska;
+    src: local("C:\Users\dwonload\Bosksa-Variable.ttf");
+}
